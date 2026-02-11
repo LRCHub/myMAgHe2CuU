@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "君を想う",
+  "base_artist": "NORIKIYO",
+  "createdAt": "2026-02-11T07:09:38.454472Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君を想う - Kimi o Omou",
+      "artist": "Kouhei Matsushita",
+      "has_synced": true,
+      "path": "select/01_君を想う_-_Kimi_o_Omou_Kouhei_Matsushita.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君を想う",
+      "artist": "NORIKIYO",
+      "has_synced": false,
+      "path": "select/pl_01_君を想う_NORIKIYO.txt"
+    }
+  ]
+}
